@@ -1,2 +1,6 @@
-# UKK_KASIR-DWI
-# UKK_KASIR-DWI
+1. Administrator
+   Username : admin
+   password : admin
+2. Petugas
+   Username : petugas
+   password : petugas
